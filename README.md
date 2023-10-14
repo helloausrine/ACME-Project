@@ -1,11 +1,11 @@
 # ACME-Project
 
-* Based on the UiPath course here: https://www.lynda.com/UiPath-tutorials/UiPath-Essential-Training/5043075-2.html?org=calgarylibrary.ca
+* __Based on the UiPath course here:__ https://www.lynda.com/UiPath-tutorials/UiPath-Essential-Training/5043075-2.html?org=calgarylibrary.ca
 
-* ACME Project: https://acme-test.uipath.com/hubfs/WI5%20-%20Calculate%20Client%20Security%20Hash.pdf
+* __ACME Project:__ https://acme-test.uipath.com/hubfs/WI5%20-%20Calculate%20Client%20Security%20Hash.pdf
 
-* Link to ACME Application: https://acme-test.uipath.com/account/login
+* __Link to ACME Application:__ https://acme-test.uipath.com/account/login
 
-* Link to SHA1 Application: http://www.sha1-online.com/
+* __Link to SHA1 Application:__ http://www.sha1-online.com/
 
-Thank you!
+Thank you for contributing!
